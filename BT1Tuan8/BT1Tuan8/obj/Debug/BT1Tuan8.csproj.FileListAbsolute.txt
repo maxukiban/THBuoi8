@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\BT1Tuan8\BT1Tuan8\bin\Debug\BT1Tuan8.exe.config
+C:\Users\admin\source\repos\BT1Tuan8\BT1Tuan8\bin\Debug\BT1Tuan8.exe
+C:\Users\admin\source\repos\BT1Tuan8\BT1Tuan8\bin\Debug\BT1Tuan8.pdb
+C:\Users\admin\source\repos\BT1Tuan8\BT1Tuan8\obj\Debug\BT1Tuan8.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\BT1Tuan8\BT1Tuan8\obj\Debug\BT1Tuan8.Form1.resources
+C:\Users\admin\source\repos\BT1Tuan8\BT1Tuan8\obj\Debug\BT1Tuan8.Properties.Resources.resources
+C:\Users\admin\source\repos\BT1Tuan8\BT1Tuan8\obj\Debug\BT1Tuan8.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\BT1Tuan8\BT1Tuan8\obj\Debug\BT1Tuan8.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BT1Tuan8\BT1Tuan8\obj\Debug\BT1Tuan8.exe
+C:\Users\admin\source\repos\BT1Tuan8\BT1Tuan8\obj\Debug\BT1Tuan8.pdb
